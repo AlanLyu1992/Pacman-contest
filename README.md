@@ -1,8 +1,3 @@
 # Pacman-contest
-##Alan
-Alan is a great man
-
-##Alan's resume
-###2015-2016
-###2016-2017
+Al project. Contest with other classmates in the class.
 
